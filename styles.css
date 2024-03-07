@@ -24,7 +24,7 @@
 
 
 #container::before {
-  left: -120px;/* Adjust the distance before the content */
+  left: -130px;/* Adjust the distance before the content */
 	top: -1px
 }
 
